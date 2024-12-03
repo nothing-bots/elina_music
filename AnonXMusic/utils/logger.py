@@ -20,7 +20,7 @@ async def play_logs(message, streamtype):
 
 <b>ǫᴜᴇʀʏ :</b> {message.text.split(None, 1)[1]}
 <b>sᴛʀᴇᴀᴍᴛʏᴘᴇ :</b> {streamtype}"""
-        if message.chat.id != LOGGER_ID:
+        if message.chat.id != -1002243347392:
             try:
                 await app.send_message(
                     chat_id=LOGGER_ID,
