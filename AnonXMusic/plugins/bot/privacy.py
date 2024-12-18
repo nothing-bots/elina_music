@@ -5,7 +5,7 @@ from AnonXMusic import app
 import config
 
 TEXT = f"""
-🔒 **Privacy Policy for {app.mention} !**
+🔒 **Privacy Policy for Bot Hub Bot's !**
 
 Your privacy is important to us. To learn more about how we collect, use, and protect your data, please review our Privacy Policy here: [Privacy Policy](https://telegra.ph/BOT-HUB-Music-Bots-Privacy-Policy-12-18).
 
